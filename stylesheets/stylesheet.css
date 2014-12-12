@@ -89,10 +89,6 @@ header h2 {
   min-height: 595px;
 }
 
-.inner {
-  width: 800px;
-  margin: 0 auto;
-}
 
 #container .inner img {
   max-width: 100%;
