@@ -26,7 +26,6 @@ time, mark, audio, video {
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
 	display: block;
-  text-align: center
 }
 body {
 	line-height: 1;
@@ -128,6 +127,7 @@ a.button {
   -webkit-box-shadow: 10px 10px 5px #888;
   -moz-box-shadow: 10px 10px 5px #888;
   box-shadow: 0px 1px 5px #e8e8e8;
+  margin:0 auto;
 }
 a.button:hover {
   border-top: solid 1px #b7b7b7;
