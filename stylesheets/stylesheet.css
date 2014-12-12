@@ -93,8 +93,6 @@ header h2 {
 
 #container .inner img {
   max-width: 100%;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 #downloads {
@@ -242,7 +240,7 @@ form {
 
 h1 {
   font-size: 32px;
-  text-align: center
+  text-align: right
 } 
 
 h2 {
@@ -250,7 +248,7 @@ h2 {
   font-weight: bold;
   color: #303030;
   margin-bottom: 8px;
-  text-align: center
+  text-align: right
 } 
 
 h3 {
