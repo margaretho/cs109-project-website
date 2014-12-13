@@ -105,12 +105,6 @@ img.center {
   margin-right: auto;
 }
 
-h3.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 a.button {
   -moz-border-radius: 30px;
   -webkit-border-radius: 30px;                     
