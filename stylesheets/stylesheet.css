@@ -131,6 +131,7 @@ a.button {
   display: block;
   float: left;
   width: 179px;
+  margin-top: 12px;
   margin-right: 14px;  
   background: #fdfdfd; /* Old browsers */
   background: -moz-linear-gradient(top,  #fdfdfd 0%, #f2f2f2 100%); /* FF3.6+ */
