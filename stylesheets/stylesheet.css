@@ -111,6 +111,11 @@ iframe.center {
   margin-right: auto;
 }
 
+p.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 a.button {
   -moz-border-radius: 30px;
